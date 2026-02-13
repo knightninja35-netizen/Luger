@@ -1,0 +1,7 @@
+{
+  "name": "Jambo Kids! Swahili Adventure",
+  "description": "An interactive Swahili learning game for kids featuring Kenyan animals, a level-based progression system, and a life-recharge mechanic. Explore 'Wanyama' (Animals), 'Matunda' (Fruits), and 'Nambari' (Numbers) while earning points and advancing through challenges.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
